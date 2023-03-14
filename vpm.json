@@ -3,10 +3,10 @@
     "author": "meronmks",
     "url": "https://meronmks.github.io/vpm-repos/vpm.json",
     "packages": {
-        "com.meronmks.AddPreSuffixWindow":{
+        "com.meronmks.addpresuffixwindow":{
             "versions": {
                 "1.2.1": {
-                    "name": "com.meronmks.AddPreSuffixWindow",
+                    "name": "com.meronmks.addpresuffixwindow",
                     "version": "1.2.1",
                     "displayName": "AddPreSuffixWindow",
                     "description": "test",
@@ -24,7 +24,7 @@
                     "repo": "https://meronmks.github.io/vpm-repos/vpm.json"
                 },
                 "1.2.0": {
-                    "name": "com.meronmks.AddPreSuffixWindow",
+                    "name": "com.meronmks.addpresuffixwindow",
                     "version": "1.2.0",
                     "displayName": "AddPreSuffixWindow",
                     "description": "test",
