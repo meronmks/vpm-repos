@@ -1,0 +1,25 @@
+{
+    "name": "meronmksTools",
+    "author": "meronmks",
+    "url": "https://meronmks.github.io/vpm-repos/vpm.json",
+    "packages": {
+        "com.meronmks.AddPreSuffixWindow":{
+            "versions": {
+                "1.2.0": {
+                    "name": "com.meronmks.AddPreSuffixWindow",
+                    "version": "1.2.0",
+                    "displayName": "AddPreSuffixWindow",
+                    "description": "test",
+                    "unity": "2018.4",
+                    "keywords": [
+                        "Tool",
+                        "Unity"
+                    ],
+                    "license": "MIT",
+                    "url": "https://github.com/meronmks/AddPreSuffixWindow/releases/download/1.2.0/AddPreSuffixWindow.zip?",
+                    "repo": "https://meronmks.github.io/vpm-repos/vpm.json"
+                }
+            }
+        }
+    }
+}
