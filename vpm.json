@@ -10,6 +10,10 @@
                     "version": "1.2.0",
                     "displayName": "AddPreSuffixWindow",
                     "description": "test",
+                    "author": {
+                        "name": "meronmks",
+                        "url": "https://github.com/meronmks/AddPreSuffixWindow"
+                    },
                     "unity": "2018.4",
                     "keywords": [
                         "Tool",
