@@ -3,6 +3,29 @@
     "author": "meronmks",
     "url": "https://meronmks.github.io/vpm-repos/vpm.json",
     "packages": {
+        "com.meronmks.simpleobjectspawn":{
+            "versions":{
+                "1.4.2": {
+                    "name": "com.meronmks.simpleobjectspawn",
+                    "version": "1.4.2",
+                    "displayName": "SimpleObjectSpawn",
+                    "description": "SimpleObjectSpawn",
+                    "author": {
+                        "name": "meronmks",
+                        "url": "https://github.com/meronmks/SimpleObjectSpawn"
+                    },
+                    "unity": "2019.4",
+                    "keywords": [
+                        "Tool",
+                        "Unity"
+                    ],
+                    "license": "WTFPL",
+                    "url": "https://github.com/meronmks/SimpleObjectSpawn/releases/download/v1.4.2/SimpleObjectSpawn-v1.4.2.zip?",
+                    "repo": "https://meronmks.github.io/vpm-repos/vpm.json"
+
+                }
+            }
+        },
         "com.meronmks.addpresuffixwindow":{
             "versions": {
                 "1.2.1": {
