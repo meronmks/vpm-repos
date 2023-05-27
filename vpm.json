@@ -21,7 +21,8 @@
                     },
                     "license": "WTFPL",
                     "private": true,
-                    "url" : "https://github.com/meronmks/SimpleUdonPin",
+                    "url": "https://github.com/meronmks/SimpleUdonPin/releases/download/v0.0.4/SimpleUdonPin-v0.0.4.zip?",
+                    "repo": "https://meronmks.github.io/vpm-repos/vpm.json",
                     "vpmDependencies": {
                       "com.vrchat.worlds": ">=3.2.0",
                       "com.vrchat.udonsharp": ">=1.1.8"
