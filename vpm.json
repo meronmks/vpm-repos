@@ -5,6 +5,29 @@
     "packages": {
         "com.meronmks.simpleudonpin":{
             "versions":{
+                "0.0.5": {
+                    "name": "com.meronmks.simpleudonpin",
+                    "version": "0.0.5",
+                    "displayName": "SimpleUdonPin",
+                    "unity": "2019.4",
+                    "description": "",
+                    "keywords": [
+                      "Tool",
+                      "Unity"
+                    ],
+                    "author": {
+                      "name": "meronmks",
+                      "url": "https://github.com/meronmks/"
+                    },
+                    "license": "WTFPL",
+                    "private": true,
+                    "url": "https://github.com/meronmks/SimpleUdonPin/releases/download/v0.0.5/SimpleUdonPin-v0.0.5.zip?",
+                    "repo": "https://meronmks.github.io/vpm-repos/vpm.json",
+                    "vpmDependencies": {
+                      "com.vrchat.worlds": ">=3.2.0",
+                      "com.vrchat.udonsharp": ">=1.1.8"
+                    }
+                },
                 "0.0.4": {
                     "name": "com.meronmks.simpleudonpin",
                     "version": "0.0.4",
