@@ -2,6 +2,7 @@
     "name": "meronmksTools",
     "author": "meronmks",
     "url": "https://meronmks.github.io/vpm-repos/vpm.json",
+    "id": "io.github.meronmks.vpm",
     "packages": {
         "com.meronmks.simpleudonpin":{
             "versions":{
